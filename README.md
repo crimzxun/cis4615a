@@ -1,7 +1,7 @@
 # cis4615a
 CIS4615 - Secure Software Development
 
-To get started with Git:
+To get started with Git:\
 [https://www.liquidlight.co.uk/blog/git-for-beginners-an-overview-and-basic-workflow/]
 [https://docs.github.com/en/get-started/quickstart/hello-world]
 
