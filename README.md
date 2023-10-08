@@ -1,7 +1,7 @@
 # cis4615a
 CIS4615 - Secure Software Development
 
-https://www.liquidlight.co.uk/blog/git-for-beginners-an-overview-and-basic-workflow/
+[https://www.liquidlight.co.uk/blog/git-for-beginners-an-overview-and-basic-workflow/]
 
 The default branch has been renamed!\
 **main is now named master**
